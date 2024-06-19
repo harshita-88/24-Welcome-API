@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.server.port'"
+  },
+  {
+    "name": "spring.management.endpoint.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.management.endpoint.web.exposure.include'"
+  }
+]}
